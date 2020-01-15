@@ -1,11 +1,15 @@
 # renta_ipc
 
+![Screenshot home](https://raw.githubusercontent.com/Webierta/AppIPC/master/Screenshot_home.png)
+
 Este programa trabaja con el **Indice de Precios de Consumo** Base 2016 publicado a partir de enero de 2002, cuando se renovó completamente la metodología del IPC y se introdujo un nuevo sistema de cálculo, actualmente en vigor, para proporcionar dos herramientas básicas:
 
 1. Obtener el último valor publicado del IPC general (Fuente: Sitio web del INE: www.ine.es).
 2. Calcular la actualización de una renta en base a la variación anual del IPC (Elaboración propia con datos extraídos del sitio web del INE: www.ine.es).
 
 Esta segunda utilidad es especialmente práctica para actualizar, por ejemplo, la renta de un contrato de arrendamiento en función de la variación del IPC en un periodo de 12 mensualidades.
+
+![Screenshot IPC](https://raw.githubusercontent.com/Webierta/AppIPC/master/Screenshot_ipc.png)
 
 ## Seguridad y Privacidad
 
